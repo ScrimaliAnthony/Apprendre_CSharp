@@ -12,3 +12,4 @@ C:\Users\antho\Desktop\C#\FirstApp\obj\Debug\net8.0\refint\FirstApp.dll
 C:\Users\antho\Desktop\C#\FirstApp\obj\Debug\net8.0\FirstApp.pdb
 C:\Users\antho\Desktop\C#\FirstApp\obj\Debug\net8.0\FirstApp.genruntimeconfig.cache
 C:\Users\antho\Desktop\C#\FirstApp\obj\Debug\net8.0\ref\FirstApp.dll
+C:\Users\antho\Desktop\C#\FirstApp\obj\Debug\net8.0\FirstApp.sourcelink.json
